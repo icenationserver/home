@@ -1,1 +1,4 @@
-# home
+<h1>Welcome to the Icenation server!</h1>
+<a href="https://icenationserver.github.io/store">Click on this link for the store</a>
+<img alt="" src="https://media.discordapp.net/attachments/483816541326934016/487419765925740564/New_tags.png?width=400&amp;height=250" style="width: 400px; height: 250px;">
+<p>Just a picture! Join the growing community of Icenation Kitpvp!<p/>
